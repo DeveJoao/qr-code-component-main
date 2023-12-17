@@ -5,7 +5,7 @@ O Desafio do site Frontend Mentor de criação de um projeto para pratica os con
 
 ## Design original
 
-![](img/image-qr-code.png)
+![](img/desktop-design.jpg)
 
 ## Tecnologias utilizadas no projeto
 
